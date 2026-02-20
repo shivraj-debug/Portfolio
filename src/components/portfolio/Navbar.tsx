@@ -58,7 +58,7 @@ const Navbar = () => {
           <div className="hidden md:block">
             <Button 
               className="bg-primary text-primary-foreground hover:bg-primary/90 gap-2"
-              onClick={() => window.open('/cv.pdf', '_blank')}
+              onClick={() => window.open('/shivResumeSde.pdf', '_blank')}
             >
               <Download className="w-4 h-4" />
               Download CV
